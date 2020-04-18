@@ -1,0 +1,29 @@
+################################################
+Memory Viewer and dumper
+VisualBasicZone.com 2004 - 2005
+http://www.visualbasiczone.com/products/
+################################################
+
+Contents
+1. Introduction
+2. Features
+3. Contact/Support
+
+
+1. Introduction
+Memory viewer and dumper allows you to view an applications memory
+and allows you to the dump the memory to a file. You always be able toget free updates
+when a new version is released and you are welcome to ask for a feature to be added.
+
+2. Features
+-Allows to view memory of a running process.
+-Allows you to save the memory dump to a file.
+-Grid and Color options.
+-Hex and Ascii values of the current offset in memory.
+
+
+3. Contact/Support
+If you have you have a question or comment you can email us at.
+support@visualbasiczone.com
+Website:
+http://www.visualbasiczone.com/products/

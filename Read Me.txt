@@ -1,0 +1,26 @@
+################################################
+Memory Viewer and dumper by vbgamer45
+http://www.projectxonline.net/products/
+################################################
+
+Contents
+1. Introduction
+2. Features
+3. Contact/Support
+
+
+1. Introduction
+Memory viewer and dumper allows you to view an applications memory
+and allows you to the dump the memory to a file. You always get free updates
+to the next version and you are welcome to ask for a feature to be added.
+
+2. Features
+-Allows to view memory of a running process.
+-Allows you to save the memory dump to a file.
+
+
+3. Contact/Support
+If you have you have a question or comment you can email us at.
+vbgamer45@gmail.com
+Website:
+http://www.projectxonline.net/products/
