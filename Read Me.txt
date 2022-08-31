@@ -18,9 +18,3 @@ to the next version and you are welcome to ask for a feature to be added.
 -Allows to view memory of a running process.
 -Allows you to save the memory dump to a file.
 
-
-3. Contact/Support
-If you have you have a question or comment you can email us at.
-vbgamer45@gmail.com
-Website:
-http://www.projectxonline.net/products/
