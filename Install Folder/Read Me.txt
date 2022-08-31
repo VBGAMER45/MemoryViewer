@@ -23,7 +23,4 @@ when a new version is released and you are welcome to ask for a feature to be ad
 
 
 3. Contact/Support
-If you have you have a question or comment you can email us at.
-support@visualbasiczone.com
-Website:
 http://www.visualbasiczone.com/products/
